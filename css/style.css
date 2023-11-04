@@ -151,10 +151,12 @@ button {
   line-height: 28.8px;
 }
 #home {
-  display: flex;
-  column-gap: 34px;
-  align-items: center;
   padding-top: 200px;
+}
+.home-info{
+  display: flex;
+  align-items: center;
+  column-gap: 34px;
 }
 .home-left {
   flex-grow: 1;
