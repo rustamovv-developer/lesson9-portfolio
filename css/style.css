@@ -177,6 +177,7 @@ button {
   font-size: 64px;
   line-height: 80px;
   margin-bottom: 30px;
+  flex-grow: 1;
 }
 .home-text {
   color: #849499;
@@ -206,8 +207,7 @@ button {
   line-height: 28.8px;
 }
 .header-img {
-  max-width: 599px;
-  height: 730px;
+  max-width: 500px;
   flex-grow: 1;
 }
 /* about start */
